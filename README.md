@@ -1,7 +1,7 @@
 browse-on-github.el
 ========================
 
-View files from Emacs on Github
+View files from Emacs on Github.
 
 In the course of a project it helps to share pointers to specific files and lines of code with others. I use Github for this task, sharing URLs like: [https://github.com/gleitz/howdoi/blob/master/howdoi/howdoi.py#L156](https://github.com/gleitz/howdoi/blob/master/howdoi/howdoi.py#L156).
 
@@ -16,3 +16,5 @@ Installation:
 * Add the contents of browse-on-github.el to your .emacs
 * Update the path in browse-on-github to point to your version of gitopener.py
 * Invoke the script on Emacs with `M-x browse-on-github`
+
+For more info see [http://blog.gleitzman.com/post/47426201896/open-files-on-github-from-emacs](http://blog.gleitzman.com/post/47426201896/open-files-on-github-from-emacs).
